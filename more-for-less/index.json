@@ -1,0 +1,26 @@
+{
+  "title": "More for Less",
+  "description": "More functionality for less and simpler code by using monad patterns",
+  "difficulty": "Intermediate",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "c#"
+  }
+}
